@@ -441,7 +441,7 @@ img {
 
 
    .header-contact {
-     background-image: url("/img/man-baby.png");
+     background-image: url("https://jesperskold.github.io/slutprojekt-html-css/img/man-baby.png");
    background-color: #c7ddea;
    background-size: 55%;
    background-size: contain;
@@ -534,7 +534,7 @@ img {
      position: relative;
      background-repeat: no-repeat;
      background-size: cover;
-     background: url("/img/map-updated.png");
+     background: url("https://jesperskold.github.io/slutprojekt-html-css/img/map-updated.png");
      background-position: center;
     }
     
