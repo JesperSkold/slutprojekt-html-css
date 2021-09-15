@@ -44,7 +44,7 @@ img {
 .header-home section:nth-child(1) {
   grid-area: header-top;
   background-color: #c7ddea;
-  background-image: url('/img/family.png');
+  background-image: url('https://https://jesperskold.github.io/slutprojekt-html-css/img/family.png');
   background-size: 70%;
   background-position: bottom right;
   background-repeat: no-repeat;
