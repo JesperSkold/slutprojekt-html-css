@@ -151,9 +151,9 @@ img {
 .card {
   border-radius: 0.5rem;
   box-shadow: 1px 5px 1px 1px rgba(0, 0, 0, 0.05);
-    text-align: center;
-    height: 25rem;
-    width: 80%;
+  text-align: center;
+  height: 25rem;
+  width: 80%;
   margin: 2rem;
   display: flex;
   align-items: center;
@@ -213,10 +213,10 @@ img {
 
 .signup-plan section {
   position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .signup-plan section h2 {
