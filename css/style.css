@@ -67,6 +67,7 @@ img {
 }
 
 .header-home section:nth-child(1) button {
+  cursor: pointer;
   font-family: "Fira Sans", sans-serif;
   border-radius: 8rem;
   border: none;
@@ -77,6 +78,11 @@ img {
   margin: 4vh auto auto 2vh;
   box-shadow:2px 10px 3px -10px #7fa2b9, -4px 14px 50px 5px rgba(0,0,0,0);  
 }
+
+.header-home section:nth-child(1) button:hover {
+  opacity: 0.7;
+}
+
 .header-home section:nth-child(2) {
   display: flex;
   justify-content: center;
@@ -398,6 +404,10 @@ img {
   cursor: pointer;
 }
 
+.main-intro-text button:hover {
+  opacity: 0.7;
+}
+
 
 .signup-plan {
   display: grid;
@@ -510,6 +520,7 @@ img {
    }
 
    .main-contact form button {
+    cursor: pointer;
     font-family: "Fira Sans", sans-serif;
     padding: 1rem 2rem;
     display: block;
@@ -780,10 +791,6 @@ margin: 0 5rem 5rem 5rem;
     width: 15vw;
   }
 
-  .main-intro-text button {
-    top: 37vh;
-    left: 3vw;
-  }
 
   .header-home section:nth-child(2) p {
     text-align: center;
