@@ -269,8 +269,8 @@ img {
     border-radius: 100%;
     border: none;
     color: rgb(24, 22, 22);
-    height: 5vh;
-    width: 5vh;
+    min-height: 5vh;
+    min-width: 5vh;
     right: 3vw;
     top: -2.5vh;
     cursor: pointer;
