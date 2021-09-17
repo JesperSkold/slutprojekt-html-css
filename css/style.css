@@ -385,9 +385,6 @@ img {
 }
 
 .main-intro-text button {
-  position: absolute;
-  top: 31vh;
-  left: 6.5vw;
   display: block;
   font-family: "Fira Sans", sans-serif;
   border-radius: 8rem;
@@ -396,8 +393,9 @@ img {
   background: white;
   text-transform: uppercase;
   font-weight: 750;
-  margin: 4vh auto auto 2vh;
+  margin: 4rem auto auto 6rem;
   box-shadow:2px 10px 3px -10px #7fa2b9, -4px 14px 50px 5px rgba(0,0,0,0);  
+  cursor: pointer;
 }
 
 
